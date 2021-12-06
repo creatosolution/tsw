@@ -1,0 +1,31 @@
+/** @format */
+
+h6.subhead {
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.mb_4,
+.my_4 {
+	margin-bottom: 1.5rem !important;
+}
+.headline {
+	line-height: 1.5em;
+	position: relative;
+	display: inline-block;
+}
+.headline:after {
+	content: " ";
+	border: 1.5px solid #a2a2a2;
+	width: 80px;
+	position: absolute;
+	bottom: -8px;
+	left: 0px;
+}
+.table-bordered {
+	border: 1px solid #dee2e6;
+}
+.table {
+	width: 100%;
+	margin-bottom: 1 rem;
+	color: #212529;
+}

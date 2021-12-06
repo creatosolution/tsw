@@ -1,0 +1,16 @@
+/** @format */
+
+.f_img {
+	width: 100%;
+	text-align: center;
+}
+.f_img img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.f_img h3 {
+	font-size: 20px;
+	letter-spacing: 0;
+	padding: 8px 0 3px;
+}

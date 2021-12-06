@@ -1,0 +1,29 @@
+/** @format */
+
+.epgcpmForm {
+	padding: 20px;
+	background: #fff;
+	border-radius: 0px 0px 5px 5px;
+}
+.epgcpmForm .form-control {
+	/* border: 0; */
+	font-size: 13px;
+	height: 40px;
+}
+label {
+	display: inline !important;
+}
+.epgcpmForm .form_group {
+	margin-bottom: 0px !important;
+}
+.apply_btn {
+	border: 0;
+	border-radius: 8px;
+	font-size: 18px;
+	width: 100%;
+	color: #fff;
+	padding: 8 px;
+	background: #d90e2f;
+	text-transform: none;
+	font-weight: 600;
+}

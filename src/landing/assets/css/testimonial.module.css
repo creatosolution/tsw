@@ -1,0 +1,26 @@
+/** @format */
+.single_brnds {
+	display: flex;
+	align-items: center;
+	padding: 8px;
+	border-left: 10px solid #673ab7;
+	margin-bottom: 20px;
+	box-shadow: 0px 3px 6px #00000014;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+.right_div h4 {
+	color: #000000;
+	font-size: 13px;
+	font-weight: 700;
+}
+.right_div p {
+	font-size: 13px;
+}
+.left_div img {
+	width: auto !important;
+	border-radius: 50%;
+	padding: 0 5px;
+	max-width: 80px;
+	max-height: 80px;
+}

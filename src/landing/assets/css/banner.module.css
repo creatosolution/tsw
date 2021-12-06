@@ -1,0 +1,41 @@
+/** @format */
+
+.banner_wrp {
+	width: 100%;
+	/*height: 100vh;*/
+	position: relative;
+}
+.banner_wrp img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+.banner_data {
+	position: absolute;
+	top: 100px;
+	width: 100%;
+}
+.banner_txt {
+	color: #fff;
+	font-size: 30px;
+	margin-top: 80px;
+}
+.banner_txt h1 {
+	font-size: 26px;
+}
+.banner_txt span {
+	display: block;
+	font-weight: 600;
+	font-size: 37px;
+	line-height: 40px;
+}
+.regi_text {
+	background: #584593 0% 0% no-repeat padding-box;
+	border-radius: 15px 15px 0px 0px;
+	margin-bottom: 0px;
+	line-height: 46px;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+}

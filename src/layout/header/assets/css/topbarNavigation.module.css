@@ -1,0 +1,9 @@
+/** @format */
+li.top_bar_menu_item {
+	display: inline-block;
+	padding-right: 10px;
+	font-size: 12px !important;
+}
+a {
+	color: #000;
+}

@@ -1,0 +1,60 @@
+/** @format */
+
+h6.subhead {
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.mb_4,
+.my_4 {
+	margin-bottom: 1.5rem !important;
+}
+.headline {
+	line-height: 1.5em;
+	position: relative;
+	display: inline-block;
+}
+.headline:after {
+	content: " ";
+	border: 1.5px solid #a2a2a2;
+	width: 80px;
+	position: absolute;
+	bottom: -8px;
+	left: 0px;
+}
+ul li {
+	margin-bottom: 5px;
+	color: #53524f;
+	font-size: 15px;
+	position: relative;
+}
+p {
+	color: #53524f;
+	font-size: 15px;
+	line-height: 26px;
+}
+
+.course_certificate ul li::before,
+.course_certificate ul li::before {
+	content: "\2022 ";
+	font-size: 26px;
+	color: #a2a2a2;
+	position: absolute;
+	left: -20px;
+	top: -1px;
+}
+.cert_img {
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+}
+.cert_img img {
+	float: left;
+	width: 100%;
+}
+img {
+	height: auto !important;
+}
+img {
+	vertical-align: middle;
+	border-style: none;
+}

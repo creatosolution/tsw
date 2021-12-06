@@ -1,0 +1,7 @@
+/** @format */
+.menu_item.has_children .active {
+	display: block !important;
+}
+.menu_item.has_children .submenu {
+	display: none;
+}

@@ -1,0 +1,12 @@
+/** @format */
+
+.course_overview_desc {
+	text-align: center;
+}
+.course_overview_desc h2 {
+	text-transform: uppercase;
+}
+h2.subhead,
+h3.subhead {
+	font-size: 28px;
+}

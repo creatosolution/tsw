@@ -1,0 +1,14 @@
+/** @format */
+
+.mb_4,
+.my_4 {
+	margin-bottom: 1.5rem !important;
+}
+.high_img img {
+	vertical-align: middle;
+	border-style: none;
+}
+.mt_3,
+.my_3 {
+	margin-top: 1rem !important;
+}

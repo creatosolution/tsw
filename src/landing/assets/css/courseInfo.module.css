@@ -1,0 +1,29 @@
+/** @format */
+
+.duration_txt {
+	text-align: left;
+}
+.duration_txt h3 {
+	font-size: 14px;
+	color: #fff;
+	margin-bottom: 0;
+}
+.duration_fees_item {
+	text-align: center;
+	background: transparent;
+	padding: 0 20px;
+	border-radius: 0;
+	color: #3d5e98;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	border-right: 1px solid #ffffff;
+}
+.duration_fees_item p {
+	margin-bottom: 0;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 600;
+}

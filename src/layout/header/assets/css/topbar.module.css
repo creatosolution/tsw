@@ -1,0 +1,29 @@
+/** @format */
+
+.top_nav {
+	background-color: #efeff2;
+}
+.custom_container {
+	width: 100%;
+	padding: 0 15px;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.text_color_grey {
+	color: #1b1b1b;
+}
+.pb_2,
+.py_2 {
+	padding-bottom: 0.5rem !important;
+	padding-top: 0.5rem !important;
+}
+
+.m_0 {
+	margin: 0 !important;
+}
+.float_right {
+	float: right !important;
+}
+.d-inline_block {
+	display: inline-block !important;
+}

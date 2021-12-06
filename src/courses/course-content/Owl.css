@@ -1,0 +1,35 @@
+/** @format */
+
+.active .carousel-item {
+	display: block !important;
+}
+.owl-nav {
+	display: inline-block;
+	position: absolute;
+	right: 0;
+	top: -48px;
+}
+.owl-prev,
+.owl-next {
+	width: 22px !important;
+	height: 22px !important;
+	background: url(https://27b65434b1.nxcli.net/wp-content/themes/tsw/images/carousal-arrow.png)
+		no-repeat 0 4px !important;
+	text-indent: -9999px !important;
+	display: block !important;
+	float: left !important;
+	margin-right: 10px !important;
+}
+.owl-next {
+	float: right !important;
+	background-position: -28px 4px !important;
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+	color: inherit;
+	border: none;
+	padding: 0 !important;
+	font: inherit;
+	cursor: pointer;
+}

@@ -1,0 +1,21 @@
+/** @format */
+
+.bg_grey {
+	background: #f7f4f4;
+}
+.custom_container {
+	width: 100%;
+	padding: 0 15px;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.clear {
+	clear: both;
+}
+.over_vw {
+	width: 100%;
+}
+main {
+	margin-left: auto;
+	margin-right: auto;
+}

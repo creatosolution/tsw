@@ -1,0 +1,24 @@
+/** @format */
+
+.highlight_item {
+	text-align: center;
+	color: #000;
+	max-width: 240px;
+	padding: 0 10px;
+	margin-bottom: 35px;
+	min-width: calc(100% / 3);
+}
+.highlight_item p {
+	color: #2f2f2f;
+	font-weight: 600;
+	font-size: 14px;
+	max-width: 200px;
+	margin: auto;
+	line-height: 21px;
+	text-align: center;
+}
+.highlight_item img {
+	max-width: 100%;
+	display: table;
+	margin: 0 auto;
+}

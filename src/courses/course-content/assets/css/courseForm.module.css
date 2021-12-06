@@ -1,0 +1,33 @@
+/** @format */
+label {
+	margin-bottom: 3px !important;
+}
+.chk_tp label {
+	float: left;
+	width: 93%;
+	font-size: 12.6px;
+	text-align: left;
+}
+.chk_tp .form-group {
+	text-align: left !important;
+	color: #333;
+	margin-bottom: 5px;
+}
+.chk_tp input.agree {
+	float: left;
+	margin-top: 2px;
+	vertical-align: middle;
+	margin-right: 5px;
+}
+.square_red_btn {
+	letter-spacing: 0.6px;
+	color: #fff;
+	text-transform: capitalize;
+	background: #ed1a38 0% 0% no-repeat;
+	padding: 8px 35px;
+	border: #ed1a38;
+	border-radius: 0.25 rem !important;
+	position: relative;
+	cursor: pointer;
+	margin-top: 15px;
+}
