@@ -7,7 +7,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Landing from "./landing/landing";
 import Course from "./courses/course";
 
-
 function App() {
 	const [isBrowseCourses, isBrowseCoursesSet] = useState([]);
 
